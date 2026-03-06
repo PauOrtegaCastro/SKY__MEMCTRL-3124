@@ -1,0 +1,19 @@
+{
+  "name": "MEMCTRL-3124",
+  "design_type": "D",
+  "technology": "SKY",
+  "unique_id": "3124",
+  "license": "Apache-2.0",
+  "trl": 0,
+  "repository": "https://github.com/chipfoundry/CF_SRAM_1024x32",
+  "pdk_version": "Skywater 130nm",
+  "process": "SkyWater130",
+  "dependencies": {},
+  "tools": {},
+  "release": {
+    "version": "v.1.0.0",
+    "gds": "release/v.1.0.0/gds",
+    "netlist": "release/v.1.0.0/netlist",
+    "doc": "release/v.1.0.0/doc"
+  }
+}
