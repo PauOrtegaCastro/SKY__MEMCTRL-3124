@@ -1,5 +1,8 @@
 # CF_SRAM_1024x32
-
+## Coment
+This IP has been prepared for the EuroCDP open-source repository.  
+All files are organized according to the EuroCDP IP structure.
+This Digital IP has been extracted from https://github.com/chipfoundry/CF_SRAM_1024x32 repository.
 ## Overview
 This memory is organized as 1024 words by 32 bits. This is a Single Port Synchronous (Flowthrough)
 SRAM in SKY130 technology. An active high read-write enable signal controls the read/write operation of the memory.
