@@ -2,7 +2,7 @@
 
 ## TRL 1 - Basic principles observed
 
-- [ ] Is the IP functionality clearly described?
+- [x] Is the IP functionality clearly described?
 - [ ] Have the potential applications of the IP been identified and described?
 
 ## TRL 2 - Concept formulation
